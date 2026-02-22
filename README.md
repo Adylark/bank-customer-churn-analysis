@@ -1,6 +1,4 @@
-<img width="1000" height="1000" alt="bank customer" src="https://github.com/user-attachments/assets/018a7a10-4bae-4edc-b394-d50a046d5835" />
-
-# bank-customer-churn-analysis
+<img width="1000" height="1000" alt="bank customer" src="https://github.com/user-attachments/assets/018a7a10-4bae-4edc-b394-d50a046d5835" /># bank-customer-churn-analysis
 End-to-end Power BI project to analyze customer churn behavior and identify key risk segments
 
 ## Business Problem
@@ -15,19 +13,19 @@ How can banks identify high-risk churn customers and what factors drive customer
 - Dashboard Design
 - Business Insight
 
-  ## Dataset
+## Dataset
   https://mavenanalytics.io/data-playground/bank-customer-churn
   
-  ## Data Preparation
-  ### Data Cleaning
-  - Change the data type to the correct one
-  - Remove duplicate data
-  - Handled null data or missing values
+## Data Preparation
+### Data Cleaning
+- Change the data type to the correct one
+- Remove duplicate data
+- Handled null data or missing values
 
- ### Data Transformation
- - Created Age Group, Balance Group, Salary Group, Tenure Group for segmentation
- - Ensured churn column as binary numeric
- - Creation of various measures as needed to create appropriate visualizations
+### Data Transformation
+- Created Age Group, Balance Group, Salary Group, Tenure Group for segmentation
+- Ensured churn column as binary numeric
+- Creation of various measures as needed to create appropriate visualizations
 
 ## Star Scheme
 - Connecting the relationship between the two tables through the primary key CustomerId
