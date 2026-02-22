@@ -1,4 +1,6 @@
-<img width="849" height="687" alt="image" src="https://github.com/user-attachments/assets/2b5090e8-2113-4add-90ca-d271406f0942" /># bank-customer-churn-analysis
+<img width="1000" height="1000" alt="bank customer" src="https://github.com/user-attachments/assets/018a7a10-4bae-4edc-b394-d50a046d5835" />
+
+# bank-customer-churn-analysis
 End-to-end Power BI project to analyze customer churn behavior and identify key risk segments
 
 ## Business Problem
